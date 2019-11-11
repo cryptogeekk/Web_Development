@@ -1,0 +1,29 @@
+img{
+	height:170px;
+	width:170px;
+	position: absolute;
+	top:8px;
+	right:16px;	
+	
+}
+
+*{
+	background-color: gray
+}
+
+.special
+{
+	border:5px red solid;
+}
+.software{
+
+}
+.line1
+{
+	border:2px solid black;
+}
+
+.line2{
+	border:2px solid violet;
+
+}
